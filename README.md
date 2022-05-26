@@ -1,5 +1,5 @@
 ### Hi there 👋
-**还在努力学编程的菜鸡**:small_airplane:
+**还在努力学编程的菜鸡，代码水平不高，欢迎赐教**:small_airplane:
 
 
 [![fullstack-sake's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-sake)](https://github.com/anuraghazra/github-readme-stats)
